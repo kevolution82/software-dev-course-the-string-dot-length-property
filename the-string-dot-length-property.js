@@ -25,6 +25,8 @@ let lengthTwo;   // Length of stringTwo
 let lengthThree; // Length of stringThree
 
 // Your code here
+let greeting = "Hello, world!";
+let greetingLength = greeting.length;
 
 
 
